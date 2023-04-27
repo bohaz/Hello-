@@ -1,5 +1,13 @@
 <a name="readme-top"></a>
 
+
+<div align="center">
+
+  <h3><b>Hello Microverse project</b></h3>
+
+</div>
+
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -22,30 +30,46 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project">Hello Microverse</a>
 
-**[your_project__name]** This is a basic HTML & CSS project to practice all the tools that a wiil need to use in the future.
+# 📖 [Hello Microverse project] <a name="about-project"></a>
+
+
+**[Hello Microverse project]** is a basic Html and Css project made to practice with all the tools we will need ahead in the program. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
+HTML5, CSS, Git and Github
 ### Tech Stack <a name="tech-stack"></a>
 
+
 <details>
-  <summary>Html</summary>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://lenguajehtml.com/html/">HTML5</a></li>
+    <li><a href="https://lenguajecss.com/">CSS3</a></li>
+  </ul>
 </details>
+
 <details>
-  <summary>Css</summary>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  </ul>
 </details>
+
 
 ### Key Features <a name="key-features"></a>
 
-- **[Show the Hello Microverse message on the Web]**
-- **[Change the message color using Css]**
 
+- **[Best organization]**
+- **[Professional documentation]**
+- **[Clean Working]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -53,25 +77,44 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Install Visual Studio Code 
+- Visual Studio Code installed
+- Npm installed
+- A Github account
+- Git installed
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd hello-world
-  git clone git@github.com:lRebornsl/hello-world.git
+  cd my-folder
+  git clone git@github.com:bohaz/Hello-.git
 
 
-## 👥 Authors <a name="authors">Ricardo Martinez</a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
 
 👤 **Author1**
 
 - GitHub: [@bohaz](https://github.com/githubhandle)
-- Twitter: [@Ricardo291115571](https://twitter.com/twitterhandle)
-- LinkedIn: [Ricardo Martinez](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Ricardo29115571](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Functionality]**
+- [ ] **[Content]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -81,20 +124,27 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please let me know with a recomendation, i will be proud.
+
+If you like this project let me know with a STAR!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all my coding partners who were there to help and support me.
+
+I would like to thank all my coding partners for giving to me your help and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
