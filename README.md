@@ -39,6 +39,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 HTML5, CSS, Git and Github
+
 ### Tech Stack <a name="tech-stack"></a>
 
 
@@ -86,9 +87,39 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:bohaz/Hello-.git
+cd my-folder
+git clone git@github.com:bohaz/Hello-.git
 
+### Install
+
+
+To install all dependencies, run:
+
+npm install
+
+### Usage
+
+To run this project, you need to follow these instructions
+
+Open the index.html in your browser
+
+### Run tests
+
+To run tests, run the following commands:
+
+-HTML linter errors run:
+
+npx hint .
+
+-CSS linter errors run:
+
+npx stylelint "**/*.{css,scss}"
+
+### Deployment
+
+You can deploy this project using:
+
+-Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,6 +176,5 @@ I would like to thank all my coding partners for giving to me your help and supp
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
